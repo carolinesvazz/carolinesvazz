@@ -1,7 +1,8 @@
 
 # Olá, me chamo Carol !
 
-[Aqui inserir o avatar]
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 100ms;" src="https://github.com/user-attachments/assets/01504eda-085b-4984-81ec-97d9e4eb7488" width="280" height="280">
+</br>
 
 ## Seja bem vindo(a) ao meu perfil no Github 👋
 
