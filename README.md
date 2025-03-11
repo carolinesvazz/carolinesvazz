@@ -10,7 +10,7 @@ Tenho 26 anos e sou do Rio de Janeiro. Venho do universo jurídico e estou trans
 
 Amo ser criativa e poder contribuir com ideias inovadoras para resoluções de problemas. 
 
-📌Tudo por aqui está em um processo de construção, meu site para publicação de artigos no blog e portfólio de projetos está em processo de finalização - csvzz.com - e, meus projetos em andamento, assim como testes de conexão você encontra aqui em meus repositórios.
+📌Tudo por aqui está em um processo de construção, meu site para publicação de artigos no blog e portfólio de projetos está em processo de finalização - csvzz.com - e, meus projetos em andamento, assim como testes de conexão você encontra também aqui em meus repositórios.
 
 📚 Faço parte da turma G8 do programa de educação da Oracle Next Education com a empresa Alura, um programa para iniciantes em programação.
 
