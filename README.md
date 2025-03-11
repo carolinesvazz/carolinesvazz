@@ -1,6 +1,7 @@
 
 # Olá, me chamo Carol !
 
+[Aqui inserir o avatar]
 
 ## Seja bem vindo(a) ao meu perfil no Github 👋
 
@@ -14,7 +15,11 @@ Amo ser criativa e poder contribuir com ideias inovadoras para resoluções de p
 
 💻 Sou bacharelanda no Centro Universitário das Américas - FAM em Sistemas de Informação e estou no 4° período. Me formei em Programação de Sistemas na linguagem em Python pelo Qualifica Maricá em fev/2025.
 
-✨Um cafézinho, um bloco de anotação e um lofi compõe minha autoorganização... Ah! Um incenso também não pode faltar ! 
+✨Um cafézinho, um bloco de anotação e um lofi compõe minha autoorganização.
+
+<p align="center">
+  <img src="https://i.gifer.com/UEl2.gif" width="200">
+</p>
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
@@ -26,7 +31,6 @@ Amo ser criativa e poder contribuir com ideias inovadoras para resoluções de p
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg" title = "CSHARP"/></code>
 
 </br>
-
 
 <!--
 **carolinesvazz/carolinesvazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
