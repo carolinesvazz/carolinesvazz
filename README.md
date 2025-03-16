@@ -1,9 +1,9 @@
 
 # Olá, me chamo Carol !
 
-![AVATAR3](https://github.com/user-attachments/assets/373d7c67-f636-41f2-a66f-683b8a7e09a3)
+![avatar6](https://github.com/user-attachments/assets/a87f66b9-3192-4fb5-b3ed-183495eb9f52)
 
-## Seja bem vindo(a) ao meu perfil no Github 🎆
+## Seja bem vindo(a) ao meu perfil no Github 👾
 
 Tenho 26 anos e sou do Rio de Janeiro. Venho do universo jurídico e estou transicionando minha carreira para o mundo tech em busca do meu Ikigai. 
 
