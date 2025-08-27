@@ -9,7 +9,7 @@ Tenho 27 anos e sou do Rio de Janeiro. Venho do universo jurídico e estou trans
 
 Amo ser criativa e poder contribuir com ideias inovadoras para resoluções de problemas. 
 
-📌Tudo por aqui está em desenvolvimento, meu site para publicação de certificados e portfólio de projetos você encontra aqui: https://carolinesvazz.github.io/site-portfolio/ e meus projetos em andamento, assim como testes de conexão você encontra em meus repositórios.
+📌Tudo por aqui está em desenvolvimento, meu site para publicação de certificados e portfólio de projetos você encontra aqui: https://carolinecsv.wixsite.com/portfolio e meus projetos em andamento, assim como testes de conexão você encontra em meus repositórios.
 
 📚 Faço parte da turma G8 do programa de educação da Oracle Next Education com a empresa Alura, um programa para iniciantes em programação.
 
