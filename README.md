@@ -5,7 +5,7 @@
 
 ## Seja bem vindo(a) ao meu perfil no Github 👾
 
-Tenho 27 anos e sou do Rio de Janeiro. Venho do universo jurídico e estou transicionando minha carreira para o mundo tech em busca do meu Ikigai. 
+Tenho 28 anos e sou do Rio de Janeiro. Venho do universo jurídico e estou transicionando minha carreira para o mundo tech em busca do meu Ikigai. 
 
 Amo ser criativa e poder contribuir com ideias inovadoras para resoluções de problemas. 
 
